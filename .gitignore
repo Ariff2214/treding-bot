@@ -1,0 +1,16 @@
+# Environments
+.env
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Logs
+# Note: We are keeping trading_bot.log UN-ignored because the company explicitly requested it in the deliverables!
